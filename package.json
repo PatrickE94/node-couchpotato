@@ -1,0 +1,19 @@
+{
+    "name": "couchpotato",
+    "version": "0.1.0",
+    "author": "Patrick Engström <patrick@weblab.se>",
+    "description": "Small node module used to query the Couchpotato v2 API",
+    "main": "lib/api.js",
+    "dependencies": {
+        "request": "x"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PatrickE94/node-couchpotato.git"
+    },
+    "keywords": [
+        "couchpotato",
+        "api"
+    ],
+    "license": "Apache License 2"
+}
