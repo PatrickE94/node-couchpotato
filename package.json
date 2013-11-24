@@ -1,6 +1,6 @@
 {
     "name": "couchpotato",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "author": "Patrick Engström <patrick@weblab.se>",
     "description": "Small node module used to query the Couchpotato v2 API",
     "main": "lib/api.js",
